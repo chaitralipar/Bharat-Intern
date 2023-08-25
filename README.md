@@ -2,21 +2,23 @@
 
 **Keywords:**
 
-Facial Emotion Recognition
+**Facial Emotion Recognition
 Deep Learning
 Computer Vision
 Emotion Classification
 Convolutional Neural Networks (CNN)
 OpenCV
-Python
+Python**
 
 **Techniques Used:**
-Convolutional Neural Networks (CNNs): We use CNNs to process and extract features from facial images. These deep learning models have proven effective in image classification tasks.
 
-Emotion Classification: The system is trained to recognize several basic emotions, including happiness, sadness, anger, surprise, fear, and neutral. We employ a multi-class classification approach.
 
-OpenCV Integration: OpenCV is used for capturing and preprocessing video frames, enabling efficient face detection and alignment for input into the emotion recognition model.
+**Convolutional Neural Networks (CNNs)**: We use CNNs to process and extract features from facial images. These deep learning models have proven effective in image classification tasks.
 
-Data Augmentation: To improve model robustness, data augmentation techniques like rotation, scaling, and brightness adjustment are applied during training.
+**Emotion Classification**: The system is trained to recognize several basic emotions, including happiness, sadness, anger, surprise, fear, and neutral. We employ a multi-class classification approach.
 
-Model Evaluation: We provide comprehensive model evaluation metrics such as accuracy, confusion matrices, and F1-scores to assess the system's performance.
+**OpenCV Integration**: OpenCV is used for capturing and preprocessing video frames, enabling efficient face detection and alignment for input into the emotion recognition model.
+
+**Data Augmentation**: To improve model robustness, data augmentation techniques like rotation, scaling, and brightness adjustment are applied during training.
+
+**Model Evaluation**: We provide comprehensive model evaluation metrics such as accuracy, confusion matrices, and F1-scores to assess the system's performance.
