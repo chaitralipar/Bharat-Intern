@@ -2,18 +2,18 @@
 
 **Keywords:**
 
-**Facial Emotion Recognition
-Deep Learning
-Computer Vision
-Emotion Classification
-Convolutional Neural Networks (CNN)
-OpenCV
-Python**
+**Facial Emotion Recognition**
+**Deep Learning**
+**Computer Vision**
+**Emotion Classification**
+**Convolutional Neural Networks (CNN)**
+**OpenCV**
+**Python**
 
 **Techniques Used:**
 
 
-**Convolutional Neural Networks (CNNs)**: We use CNNs to process and extract features from facial images. These deep learning models have proven effective in image classification tasks.
+**Convolutional Neural Networks (CNNs)** : We use CNNs to process and extract features from facial images. These deep learning models have proven effective in image classification tasks.
 
 **Emotion Classification**: The system is trained to recognize several basic emotions, including happiness, sadness, anger, surprise, fear, and neutral. We employ a multi-class classification approach.
 
